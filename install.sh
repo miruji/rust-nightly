@@ -74,7 +74,7 @@ WASM_TOOLS_URL="https://github.com/miruji/rust-nightly/releases/download/0.1.0/w
 WASM_TOOLS_SHA="a1a62e0aed14c7de8f1cbe92e76a220c7b7c1d73bafe8f12fa46626edf3fe061"
 
 WASM_BINDGEN_URL="https://github.com/miruji/rust-nightly/releases/download/0.1.0/wasm-bindgen.tar.xz"
-WASM_BINDGEN_SHA="29a90ec970a1bcca713002d4e30762c0bdc4382079af9d315f1c2cd87933d22b"
+WASM_BINDGEN_SHA="7b0c09516c8a4147c43042ffa69f7f0d4f74dd1250910970f6f664bab9576286"
 
 # Both dirs resolve relative to the script's location, not $PWD — so
 # `curl ... | bash` and `bash ./install.sh` behave the same.
